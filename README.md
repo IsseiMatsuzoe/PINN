@@ -1,2 +1,2 @@
 # PINN
-Repository for learning PINN to apply my research.
+Repository for learning PINN to apply it in my research.
